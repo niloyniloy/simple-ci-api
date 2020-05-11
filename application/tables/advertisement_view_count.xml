@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table name="advertisement_view_count" description="Locations" primary_key="id">	
+	<field 	name="id" description="Primary key" 	type="hidden" 	primary="true"	readonly="true" />		
+
+	<field name="advertisement_id" description="Location" type="lookup" ref_table="advertisement" key="id" value="link" required="1" show="1" />
+
+	<field name="total_view" type="input" show="2"  />
+	
+</table>

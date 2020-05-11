@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table name="users" description="Locations" primary_key="id">	
+	<field 	name="id" 	description="Primary key" 	type="hidden" 	primary="true"	readonly="true" />		
+
+	<field 	name="first_name"  description="Name" 	type="input"	show="1" />	
+	<field 	name="last_name" type="input" show="2" />			
+	<field 	name="email" type="input" show="3" />	
+	<field 	name="password" type="input" show="4" />			
+	<field name="gender" description="Field input" type="select">		
+		<option key="Male">Male</option>	
+		<option key="Female">Female</option>	
+	</field>
+
+	<field 	name="city" description="Location" type="lookup" ref_table="city" key="id" value="name" required="1" show="4" />
+
+	<field 	name="country" description="Location" type="lookup" ref_table="country" key="id" value="name" required="1" />
+
+	<field 	name="total_income"	description="Name" 	type="input" show="5"/>
+	<field 	name="date_of_birth" description="Name" type="input" show="6"/>	
+</table>

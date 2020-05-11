@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background:#fff url(../img/bg_body.jpg) repeat-y left top;
+}
+.select2-container.form-control.select2{
+	padding:0 !important;
+	border:0 !important;
+	height:34px !important;
+	
+}
+.select2-container .select2-choice{
+	height:34px;
+	line-height:34px;
+	background:none;
+	background-image:none;
+}
+.btn_add{
+	display:inline-block;
+}
+/*
+ * by mark
+ */
+.select2-container.form-control.dashboard-dropdown{
+	padding:0 !important;
+	border:0 !important;
+	height:34px !important;
+	
+}

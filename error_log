@@ -1,0 +1,30 @@
+[10-Jun-2017 20:10:52 UTC] PHP Fatal error:  Call to a member function get_where() on null in /home/darry151623943/public_html/apis/application/controllers/Login.php on line 20
+[10-Jun-2017 20:21:21 UTC] PHP Fatal error:  Call to a member function get_where() on null in /home/darry151623943/public_html/apis/application/controllers/Login.php on line 20
+[10-Jun-2017 20:21:28 UTC] PHP Fatal error:  Call to a member function get_where() on null in /home/darry151623943/public_html/apis/application/controllers/Login.php on line 20
+[10-Jun-2017 20:21:39 UTC] PHP Fatal error:  Call to a member function get_where() on null in /home/darry151623943/public_html/apis/application/controllers/Login.php on line 20
+[10-Jun-2017 20:33:39 UTC] PHP Parse error:  syntax error, unexpected 'functon' (T_STRING), expecting variable (T_VARIABLE) in /home/darry151623943/public_html/apis/application/controllers/Signup.php on line 58
+[10-Jun-2017 20:35:01 UTC] PHP Parse error:  syntax error, unexpected 'functon' (T_STRING), expecting variable (T_VARIABLE) in /home/darry151623943/public_html/apis/application/controllers/User.php on line 77
+[24-Jun-2017 08:09:13 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/darry151623943/public_html/apis/application/controllers/Adds.php on line 30
+[30-Jun-2017 19:21:54 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/darry151623943/public_html/apis/application/helpers/dashboard_main_helper.php on line 34
+[30-Jun-2017 19:23:03 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/darry151623943/public_html/apis/application/helpers/dashboard_main_helper.php on line 34
+[30-Jun-2017 19:23:18 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/darry151623943/public_html/apis/application/helpers/dashboard_main_helper.php on line 34
+[30-Jun-2017 19:26:10 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/darry151623943/public_html/apis/application/helpers/dashboard_main_helper.php on line 34
+[30-Jun-2017 19:29:18 UTC] PHP Fatal error:  Class 'Dashboard_controller' not found in /home/darry151623943/public_html/apis/application/controllers/dbtables/Training.php on line 7
+[30-Jun-2017 19:29:37 UTC] PHP Fatal error:  Class 'Dashboard_controller' not found in /home/darry151623943/public_html/apis/application/controllers/dbtables/Training.php on line 7
+[30-Jun-2017 19:30:08 UTC] PHP Fatal error:  Class 'Dashboard_controller' not found in /home/darry151623943/public_html/apis/application/controllers/dbtables/Training.php on line 7
+[30-Jun-2017 19:31:13 UTC] PHP Fatal error:  Class 'Dashboard_controller' not found in /home/darry151623943/public_html/apis/application/controllers/dbtables/Countries.php on line 1
+[30-Jun-2017 19:34:51 UTC] PHP Fatal error:  Class 'Dashboard_controller' not found in /home/darry151623943/public_html/apis/application/controllers/dbtables/Training.php on line 7
+[30-Jun-2017 19:37:19 UTC] PHP Fatal error:  Class 'Dashboard_controller' not found in /home/darry151623943/public_html/apis/application/controllers/dbtables/Training.php on line 7
+[30-Jun-2017 19:39:09 UTC] PHP Fatal error:  Class 'Dashboard_controller' not found in /home/darry151623943/public_html/apis/application/controllers/dbtables/Training.php on line 7
+[30-Jun-2017 19:39:13 UTC] PHP Fatal error:  Class 'Dashboard_controller' not found in /home/darry151623943/public_html/apis/application/controllers/dbtables/Training.php on line 7
+[30-Jun-2017 19:42:42 UTC] PHP Fatal error:  Class 'Dashboard_controller' not found in /home/darry151623943/public_html/apis/application/controllers/dbtables/Training.php on line 7
+[30-Jun-2017 19:42:44 UTC] PHP Fatal error:  Class 'Dashboard_controller' not found in /home/darry151623943/public_html/apis/application/controllers/dbtables/Training.php on line 7
+[30-Jun-2017 19:46:13 UTC] PHP Fatal error:  Class 'Dashboard_controller' not found in /home/darry151623943/public_html/apis/application/controllers/dbtables/Category.php on line 1
+[02-Jul-2017 10:36:49 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/darry151623943/public_html/apis/application/core/Dashboard_model.php on line 197
+[02-Jul-2017 10:37:00 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/darry151623943/public_html/apis/application/core/Dashboard_model.php on line 197
+[02-Jul-2017 10:38:38 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/darry151623943/public_html/apis/application/core/Dashboard_model.php on line 197
+[02-Jul-2017 10:38:51 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/darry151623943/public_html/apis/application/core/Dashboard_model.php on line 197
+[02-Jul-2017 12:08:04 UTC] PHP Parse error:  syntax error, unexpected '$controller_sub_folder' (T_VARIABLE) in /home/darry151623943/public_html/apis/application/core/Dashboard_controller.php on line 1228
+[19-Feb-2018 16:12:59 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 35258872 bytes) in /home/ntstx1/public_html/food_api/system/database/DB_driver.php on line 1476
+[01-Apr-2018 06:21:30 UTC] PHP Fatal error:  Cannot redeclare Notification::getRestaurantMenu() in /home/ntstx1/public_html/food_api/application/controllers/Notification.php on line 146
+[01-Apr-2018 06:22:27 UTC] PHP Fatal error:  Cannot redeclare Notification::getRestaurantMenu() in /home/ntstx1/public_html/food_api/application/controllers/Notification.php on line 146
